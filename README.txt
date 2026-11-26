@@ -1,4 +1,5 @@
-HEELER HOME — LOCAL PHOTOS
+SIM PUPPY
+A tool for simulating the needs of an Australian Cattle Dog puppy for Danny.
 
 Open index.html in your browser. Keep the images folder next to it.
 Photos switch automatically as the dog changes activity or age. The images are

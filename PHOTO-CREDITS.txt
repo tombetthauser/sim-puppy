@@ -238,3 +238,5 @@ Local files:
   australian-cattle-dog-2-plus-year-old-adult-chewing-safe-dog-toy.jpg
   australian-cattle-dog-4-to-6-month-old-puppy-chewing-safe-dog-toy.jpg
   australian-cattle-dog-6-to-12-month-old-adolescent-chewing-safe-dog-toy.jpg
+
+Link preview: preview.jpg is a crop of the 8-12 week chewing-safe-dog-toy photo (credited above). Its URL in the og:image tag assumes GitHub Pages at https://tombetthauser.github.io/sim-puppy/.
